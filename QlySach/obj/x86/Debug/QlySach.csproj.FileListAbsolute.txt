@@ -1,0 +1,10 @@
+E:\hoc Csharp\QlySach\QlySach\bin\Debug\QlySach.exe
+E:\hoc Csharp\QlySach\QlySach\bin\Debug\QlySach.pdb
+E:\hoc Csharp\QlySach\QlySach\obj\x86\Debug\QlySach.Form1.resources
+E:\hoc Csharp\QlySach\QlySach\obj\x86\Debug\QlySach.Form_ChuDe.resources
+E:\hoc Csharp\QlySach\QlySach\obj\x86\Debug\QlySach.Form_NXB.resources
+E:\hoc Csharp\QlySach\QlySach\obj\x86\Debug\QlySach.Form_Sach.resources
+E:\hoc Csharp\QlySach\QlySach\obj\x86\Debug\QlySach.Properties.Resources.resources
+E:\hoc Csharp\QlySach\QlySach\obj\x86\Debug\QlySach.csproj.GenerateResource.Cache
+E:\hoc Csharp\QlySach\QlySach\obj\x86\Debug\QlySach.exe
+E:\hoc Csharp\QlySach\QlySach\obj\x86\Debug\QlySach.pdb
